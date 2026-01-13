@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First Reading Economic Matters and Government, Labor, and Elections",
+    "date": "2026-01-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0179"
+}
