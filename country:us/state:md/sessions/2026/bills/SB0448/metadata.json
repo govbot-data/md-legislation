@@ -162,6 +162,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:47Z"
       }
+    },
+    {
+      "description": "Motion to Postpone Indefinitely  (Senator King)  Adopted",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -240,7 +250,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:47Z",
+    "logs_latest_update": "2026-08-09T05:10:05Z",
     "text_extraction_latest_update": "2026-07-21T20:14:19.666459Z"
   }
 }

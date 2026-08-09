@@ -186,6 +186,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:48Z"
       }
+    },
+    {
+      "description": "Motion Special Order until Next Session  (Delegate Moon)  Adopted",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -406,7 +416,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:48Z",
+    "logs_latest_update": "2026-08-09T05:10:05Z",
     "text_extraction_latest_update": "2026-07-21T19:09:32.851932Z"
   }
 }

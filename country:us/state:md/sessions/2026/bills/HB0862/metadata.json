@@ -172,6 +172,52 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:47Z"
       }
+    },
+    {
+      "description": "Overridden",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:05Z"
+      }
+    },
+    {
+      "description": "Motion to Postpone Indefinitely  (Senator Ready)  Rejected",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:05Z"
+      }
+    },
+    {
+      "description": "Overridden",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:05Z"
+      }
+    },
+    {
+      "description": "Gubernatorial Veto Override (Legislative date: 8/3/2026) - Chapter 879",
+      "date": "2026-08-03",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:10:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -325,6 +371,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Chapter - Railroads - Required Crew for Movement of Freight",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_879_hb0862t.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -357,7 +414,7 @@
     "division_id": "ocd-division/country:us/state:md"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:47Z",
+    "logs_latest_update": "2026-08-09T05:10:05Z",
     "text_extraction_latest_update": "2026-07-21T20:53:11.298344Z"
   }
 }

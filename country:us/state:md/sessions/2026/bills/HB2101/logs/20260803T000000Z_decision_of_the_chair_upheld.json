@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Decision of the Chair upheld",
+    "occurred_at": "2026-08-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb2101?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2101"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Gubernatorial Veto Override (Legislative date: 8/3/2026) - Chapter 879",
+    "occurred_at": "2026-08-03",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "veto-override-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0862?ys=2026RS",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0862"
+}
