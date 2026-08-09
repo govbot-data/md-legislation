@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - Third - Election Districts - General Assembly and Representatives in Congress
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 2100
+G1, P5 CONSTITUTIONAL AMENDMENT 6lr3740
+CF SB 2100
+By: The Speaker
+Introduced and read first time: August 3, 2026
+Assigned to: Government, Labor, and Elections
+Rules suspended
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: August 3, 2026
+CHAPTER ______
+1 AN ACT concerning
+2 Election Districts – General Assembly and Representatives in Congress
+3 FOR the purpose of clarifying that certain requirements apply only to districts for the
+4 election of members of the Senate of Maryland and the House of Delegates;
+5 authorizing the General Assembly to grant original jurisdiction to the Supreme
+6 Court of Maryland to review the congressional districting plan of the State; and
+7 providing that nothing in the Maryland Constitution provides applicable criteria for
+8 the boundaries of a congressional districting plan.
+9 BY proposing an amendment to the Maryland Constitution
+10 Article III – Legislative Department
+11 Section 4
+12 BY proposing an addition to the Maryland Constitution
+13 Article III – Legislative Department
+14 Section 62
+15 Preamble
+16 WHEREAS, Congressional districting in Maryland remains subject to the U.S.
+17 Constitution, federal law, and any Maryland statute expressly governing congressional
+18 districts; and
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb2100*
+
+2 HOUSE BILL 2100
+1 WHEREAS, In Szeliga v. Lamone and Parrott v. Lamone, the Circuit Court for Anne
+2 Arundel County held that Article III, § 4 districting standards apply to congressional
+3 districts, relying on Articles 7, 24, and 40 of the Declaration of Rights, though no Maryland
+4 constitutional provision expressly addresses congressional districting; and
+5 WHEREAS, This amendment clarifies the long–standing understanding and case
+6 law that Article III, § 4 of the Maryland Constitution governs only General Assembly
+7 districting plans, not congressional districting plans; and
+8 WHEREAS, Preserving Maryland’s cohesive communities of interest connected by
+9 shared civic, social, economic, political subdivisions, and other common interests without
+10 unnecessary fragmentation is a legitimate, neutral consideration in congressional
+11 districting; and
+12 WHEREAS, Nothing in this amendment establishes a demographic target, requires
+13 proportional representation, guarantees any electoral outcome, or authorizes
+14 discrimination prohibited by federal law; and
+15 WHEREAS, This amendment is not intended to provide new grounds to challenge
+16 the plan enacted by Chapter 16 of the Acts of 2022; now, therefore,
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 (Three–fifths of all the members elected to each of the two Houses concurring), That it be
+19 proposed that the Maryland Constitution read as follows:
+20 Article III – Legislative Department
+21 4.
+22 Each legislative district FOR THE ELECTION OF A MEMBER OF THE SENATE AND
+23 MEMBERS OF THE HOUSE OF DELEGATES shall consist of adjoining territory, be compact
+24 in form, and of substantially equal population. Due regard shall be given to natural
+25 boundaries and the boundaries of political subdivisions.
+26 62.
+27 (A) THE GENERAL ASSEMBLY SHALL HAVE THE POWER TO GRANT
+28 ORIGINAL JURISDICTION TO THE SUPREME COURT OF MARYLAND TO REVIEW THE
+29 CONGRESSIONAL DISTRICTING PLAN OF THE STATE.
+30 (B) NOTHING IN THIS ARTICLE OR ELSEWHERE IN THIS CONSTITUTION,
+31 INCLUDING THE DECLARATION OF RIGHTS, PROVIDES APPLICABLE CRITERIA FOR
+32 THE BOUNDARIES OF A CONGRESSIONAL DISTRICTING PLAN.
+33 SECTION 2. AND BE IT FURTHER ENACTED, That the General Assembly
+34 determines that the amendment to the Maryland Constitution proposed by Section 1 of this
+
+HOUSE BILL 2100 3
+1 Act affects multiple jurisdictions and that the provisions of Article XIV, § 1 of the Maryland
+2 Constitution concerning local approval of constitutional amendments do not apply.
+3 SECTION 3. AND BE IT FURTHER ENACTED, That:
+4 (a) The amendment to the Maryland Constitution proposed by Section 1 of this
+5 Act shall be submitted to the qualified voters of the State at the next general election to be
+6 held in November 2026 for adoption or rejection in accordance with Article XIV of the
+7 Maryland Constitution.
+8 (b) (1) At that general election, the vote on the proposed amendment to the
+9 Constitution shall be by ballot, and on each ballot there shall be printed the words “For the
+10 Constitutional Amendment” and “Against the Constitutional Amendment”, as now
+11 provided by law.
+12 (2) At that general election, a question substantially similar to the
+13 following Notwithstanding any other provision of law, at that general election, the following
+14 question shall be submitted to the qualified voters of the State:
+15 “Question ___ – Constitutional Amendment
+16 The proposed Constitutional Amendment clarifies that certain standards in the
+17 Maryland Constitution apply only to districts used to elect members of the General
+18 Assembly; authorizes the General Assembly to grant original jurisdiction to the Supreme
+19 Court of Maryland to review the congressional districting plan of the State; and requires
+20 the criteria for boundaries of congressional districts to be determined by applicable federal
+21 laws.”.
+22 (c) Immediately after the election, all returns shall be made to the Governor of
+23 the vote for and against the proposed amendment, as directed by Article XIV of the
+24 Maryland Constitution, and further proceedings held in accordance with Article XIV.
+Approved:
+________________________________________________________________________________
+Governor.
+________________________________________________________________________________
+Speaker of the House of Delegates.
+________________________________________________________________________________
+President of the Senate.
